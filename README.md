@@ -1,6 +1,7 @@
-# calculatorgeo
 
-A new Flutter project.
+A new Flutter project 
+
+Calculating Application using flutter and dart
 
 ## Getting Started
 
